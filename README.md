@@ -1,3 +1,50 @@
+
+
+**Table of Contents** 
+
+- [PythonTricks](#pythontricks)
+  - [Useful codes](#useful-codes)
+      - [logger](#logger)
+  - [Cannot load module](#cannot-load-module)
+  - [Python change font size](#python-change-font-size)
+  - [Python add xlabel](#python-add-xlabel)
+  - [Python change xtick rotation](#python-change-xtick-rotation)
+  - [Numpy tricks](#numpy-tricks)
+      - [Remove a row with 'NaN'](#remove-a-row-with-nan)
+      - [Set seed](#set-seed)
+  - [Installation](#installation)
+    - [Autocompletion in the terminal](#autocompletion-in-the-terminal)
+  - [Command line debugger](#command-line-debugger)
+    - [Debugger](#debugger)
+    - [Profiler](#profiler)
+    - [Matlab vs Python](#matlab-vs-python)
+  - [Markdown Tricks](#markdown-tricks)
+    - [TOC](#toc)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+
+**Table of Contents**  
+
+- [PythonTricks](#pythontricks)
+  - [Useful codes](#useful-codes)
+      - [logger](#logger)
+  - [Cannot load module](#cannot-load-module)
+  - [Python change font size](#python-change-font-size)
+  - [Python add xlabel](#python-add-xlabel)
+  - [Python change xtick rotation](#python-change-xtick-rotation)
+  - [Numpy tricks](#numpy-tricks)
+      - [Remove a row with 'NaN'](#remove-a-row-with-nan)
+      - [Set seed](#set-seed)
+  - [Installation](#installation)
+    - [Autocompletion in the terminal](#autocompletion-in-the-terminal)
+  - [Command line debugger](#command-line-debugger)
+    - [Debugger](#debugger)
+    - [Profiler](#profiler)
+    - [Matlab vs Python](#matlab-vs-python)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # PythonTricks
 
 See also my original [webpage](http://www.junlulocky/blog/pythontricks)
@@ -177,6 +224,12 @@ Enable/Disable/Clear breakpoint:
 |Matlab | Python/Numpy |
 |---|---|
 |X[1] (indexing starts at 1)  |   X[0] (indexing starts at 0) |
+
+## Markdown Tricks
+
+### TOC
+Automatically generate table of content: *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
 
 
 
