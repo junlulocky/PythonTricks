@@ -30,12 +30,13 @@ See also my original [webpage](http://www.junlulocky/blog/pythontricks)
 
 #### logger
 
-Use the logger utility in your Python code to track your running easily
+Use the logger utility in your Python code to track and save your running to log file easily.
 
 | Code | Example | 
 |:-------:| ----------- |
 | [logger](/logger/logger.py) | [example](/logger/examples/logger_demo.py) |
 
+We have created a Python package for the ease use of this logger - [Link](https://github.com/junlulocky/PyLogger).
 
 ## Cannot load module
 If you installed a module by pip, you may cannot load it. 
